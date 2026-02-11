@@ -1,0 +1,13 @@
+.saadbox2{
+    background-color: darkkhaki;
+    color: wheat;
+   border: 10px inset cadetblue; 
+   border-bottom: 10px solid slategrey;
+   border-left: 10px solid rgb(220, 199, 131);
+   border-right: 10px solid rgb(0, 255, 191);
+}
+h1{
+    font-family: oblique;
+    font-family: monospace;
+    text-shadow: 4px 3px rgb(0, 255, 128);
+}
